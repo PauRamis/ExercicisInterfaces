@@ -13,7 +13,7 @@ public class Main {
 
         for (int i = 0; i < vehicles.length; i++) {
             IsVehicle v = vehicles[i];
-            if (v instanceof Jeep){
+            if (v instanceof Jeep) {
 
             }
         }
